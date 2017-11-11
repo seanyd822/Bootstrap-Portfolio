@@ -1,5 +1,7 @@
+
+
 body{
-	background-color: #d3d3d3;
+	background-color: black;
 }
 #myname{
 	height: 92px;
@@ -129,25 +131,25 @@ ul {
     background-color: #B8B8B8;
     color: black;
     text-align: center;
-    border-top: 10px solid #3D7EFF;
+    border-top: 10px solid gray;
     
 }
 
 h2{
-	color: #3D7EFF ;
+	color: orange ;
 	padding-bottom: 20px;
 	font-family: "Georgia", "Times", "Times New Roman", serif;
 	font-size: 28px;
 }
 
 .border{
-	border-bottom: 3px solid gray;
+	border-bottom: 3px solid black;
 	padding: 0px;
 	
 	}
 
 h3{
-	color: #3D7EFF;
+	color: orange;
 	margin-right: 25px;
 	margin-left: 25px;
 	padding-bottom: 8px;
@@ -218,10 +220,10 @@ input[type=submit] {
 
 .myprojects1{
 	position: relative;
-	background-color:#3D7EFF;
+	background-color:orange;
 	color: white;
-	width: 190px;
-	height: 15px;
+	width: 230px;
+	height: 30px;
 	text-align: center;
 	top: 175px;
 	left: 5px;
@@ -231,21 +233,21 @@ input[type=submit] {
 
 .myprojects2{
 position: absolute;
-	background-color:#3D7EFF;
+	background-color:orange;
 	color: white;
-	width: 190px;
+	width: 230px;
 	height: 15px;
 	text-align: center;
 	top: 230px;
-	left: 368px;
+	left: 350px;
 	padding: 20px;
 }
 
 .myprojects3{
 position: relative;
-	background-color:#3D7EFF;
+	background-color:orange;
 	color: white;
-	width: 190px;
+	width: 230px;
 	height: 15px;
 	text-align: center;
 	top: 390px;
@@ -255,21 +257,21 @@ position: relative;
 
 .myprojects4{
 position: relative;
-	background-color:#3D7EFF;
+	background-color:orange;
 	color: white;
-	width: 190px;
+	width: 230px;
 	height: 15px;
 	text-align: center;
 	top: 337px;
-	left: 359px;
+	left: 339px;
 	padding: 20px;
 }
 
 .myprojects5{
 position: relative;
-	background-color:#3D7EFF;
+	background-color:orange;
 	color: white;
-	width: 190px;
+	width: 230px;
 	height: 15px;
 	text-align: center;
 	top: 580px;
